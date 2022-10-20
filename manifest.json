@@ -1,0 +1,33 @@
+{
+	"description": "Accurate Gnome 43 Light theme.",
+	"manifest_version": 2,
+	"author": "SammiLucia",
+	"name": "Gnome 43 for Edge/Chromium browsers",
+	"short_name": "Gnome 43",
+	"theme":
+	{
+		"colors":
+		{
+			"button_background": [ 251, 250, 250 ],
+			"frame": [ 251, 250, 250 ],
+			"frame_inactive": [ 249, 249, 248 ],
+			"frame_incognito": [ 251, 250, 250 ],
+			"frame_incognito_inactive": [ 249, 249, 248 ],
+			"ntp_background": [ 255, 255, 255 ],
+			"ntp_text": [ 46, 52, 54 ],
+			"ntp_header": [ 46, 52, 54 ],
+			"ntp_section_text": [ 46, 52, 54 ],
+			"tab_text": [ 46, 52, 54 ],
+			"tab_background_text": [ 146, 149, 149 ],
+			"button_background": [ 251, 250, 250 ],
+			"toolbar": [ 251, 250, 250 ],
+			"toolbar_inactive": [ 251, 250, 250 ],
+			"bookmark_text": [ 46, 52, 54 ],
+			"omnibox_background": [ 255, 255, 255 ],
+			"omnibox_text": [ 46, 52, 54 ],
+			"omnibox_text": [ 146, 149, 149 ]
+		}
+	},
+	"update_url": "http://clients2.google.com/service/update2/crx",
+	"version": "1.0"
+}
